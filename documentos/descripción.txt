@@ -1,0 +1,11 @@
+⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹
+
+Evelyn Vidal
+3-D
+
+Breve descripción del proyecto ૮ ྀིᴗ͈ . ᴗ͈ ྀིა: Este proyecto consiste en un 
+programa desarrollado en Python que muestra un mensaje de bienvenida,
+presenta datos personales y solicita al usuario su lenguaje de programación
+favorito.
+
+⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹
